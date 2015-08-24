@@ -1,0 +1,16 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SGH-I547C</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>I547COYA</CSCName>
+	<CSCVersion>AMC1</CSCVersion>
+	<NbCustomer>6</NbCustomer>
+	<CustomerData src="/Customer/BMC/customer.xml" />
+	<CustomerData src="/Customer/BWA/customer.xml" />
+	<CustomerData src="/Customer/KDO/customer.xml" />
+	<CustomerData src="/Customer/PCM/customer.xml" />
+	<CustomerData src="/Customer/TLS/customer.xml" />
+	<CustomerData src="/Customer/VMC/customer.xml" />
+	</CustomerDataSet>
